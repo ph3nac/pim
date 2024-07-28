@@ -1,3 +1,3 @@
 # pim
 
-ph3nac vim config
+ph3nac neovim config
